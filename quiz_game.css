@@ -1,0 +1,16 @@
+body{
+    background-color:#a29bfe ;
+    font-family: 'Beau Rivage';
+}
+button{
+    background-color:#74b9ff ;
+    color:#033154;
+    font-weight:bold;
+    height:30px;
+    width:100px;
+    font-size:20px;
+}
+div{
+    background-color:#FDA7DF;
+    width:350px;
+}
